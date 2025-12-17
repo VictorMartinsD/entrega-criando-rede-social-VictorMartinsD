@@ -1,5 +1,9 @@
 # 🚀 Template de Rede Social: Layout Responsivo
 
+## 🔗 Deploy do Projeto / Project Deploy
+Confira a aplicação em execução através do link abaixo:
+👉 [Rede Social - Link de Deploy](https://victormartinsd.github.io/entrega-criando-rede-social-VictorMartinsD/)
+
 ## 📸 Preview
 
 <p align="center">
@@ -40,6 +44,9 @@ O projeto demonstra domínio sobre os seguintes fundamentos:
 ---
 
 # 🇺🇸 Social Network Template: Responsive Layout
+
+Check out the application in action at the link below:
+👉 [Social Network - Deploy Link](https://victormartinsd.github.io/entrega-criando-rede-social-VictorMartinsD/)
 
 ## 📸 Preview
 
