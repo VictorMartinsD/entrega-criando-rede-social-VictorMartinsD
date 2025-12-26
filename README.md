@@ -50,9 +50,7 @@ Check out the application in action at the link below:
 
 ## 📸 Preview
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/4aa37584-1f5b-40b1-9099-139c51307d9d" alt="Screenshot of the Social Network Template showing the profile and feed" width="800">
-</p>
+(See images in the section above)
 
 ## ✨ About the Project
 
