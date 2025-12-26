@@ -1,4 +1,4 @@
-# 🚀 Rede Social: Layout Responsivo
+# 🚀 Rede Social: Layout Responsivo e Interativo
 
 ## 🔗 Deploy do Projeto / Project Deploy
 Confira a aplicação em execução através do link abaixo:
@@ -12,20 +12,22 @@ Confira a aplicação em execução através do link abaixo:
 
 ## ✨ Sobre o Projeto
 
-Este projeto é a criação do **layout front-end** de uma página de perfil para uma rede social. Foi desenvolvido como um exercício para demonstrar a estrutura de código limpo, HTML semântico e, principalmente, a construção de um layout **responsivo** que se adapta a diferentes tamanhos de tela.
+Este projeto consiste na criação do **layout front-end** de uma página de perfil para uma rede social. Desenvolvido para demonstrar a aplicação de código limpo e HTML semântico, o projeto foca na construção de uma interface **responsiva** e **interativa**, utilizando JavaScript para enriquecer a experiência do usuário.
 
 ## 🛠️ Funcionalidades e Foco Técnico
 
 O projeto demonstra domínio sobre os seguintes fundamentos:
 
-* **HTML Semântico:** Estruturação correta da página com tags como `<header>`, `<nav>`, `<main>`, `<aside>` e `<section>`.
-* **Layout Responsivo:** Implementação de CSS (provavelmente Flexbox ou Grid) para garantir que o perfil e o feed se ajustem perfeitamente em dispositivos móveis e desktop.
-* **CSS Limpo:** Separação de estilos e boa nomeação de classes.
+* **HTML Semântico:** Estruturação correta da página com foco em acessibilidade e SEO.
+* **Layout Responsivo:** Implementação de CSS moderno para adaptação total entre dispositivos móveis e desktop.
+* **Interatividade com JavaScript:** Uso de scripts para manipulação do DOM, permitindo interações dinâmicas nos elementos da rede social.
+* **CSS Limpo:** Organização modular de estilos e boa nomenclatura de classes.
 
 ## 📁 Estrutura de Arquivos
 
-* `index.html`: Estrutura principal da página (perfil e feed).
-* `style.css` / outros arquivos `.css`: Estilização e responsividade do layout.
+* `index.html`: Estrutura principal da página.
+* `style.css`: Estilização e regras de responsividade.
+* `script.js`: Lógica de interatividade e manipulação de eventos.
 * `assets/`: Pasta contendo ícones e imagens do perfil.
 
 ## ⚙️ Como Rodar Localmente
@@ -43,7 +45,7 @@ O projeto demonstra domínio sobre os seguintes fundamentos:
 ---
 ---
 
-# 🇺🇸 Social Network: Responsive Layout
+# 🇺🇸 Social Network: Responsive and Interactive Layout
 
 Check out the application in action at the link below:
 👉 [Social Network - Deploy Link](https://victormartinsd.github.io/rede-social/)
@@ -54,20 +56,22 @@ Check out the application in action at the link below:
 
 ## ✨ About the Project
 
-This project is the creation of a **front-end layout** for a social network profile page. It was developed as an exercise to demonstrate clean code structure, semantic HTML, and, most importantly, the construction of a **responsive** layout that adapts to different screen sizes.
+This project is the creation of a **front-end layout** for a social network profile page. It was developed to demonstrate clean code structure and semantic HTML, focusing on building a **responsive** and **interactive** interface using JavaScript to enhance the user experience.
 
 ## 🛠️ Features and Technical Focus
 
 The project demonstrates mastery of the following fundamentals:
 
-* **Semantic HTML:** Correct page structure using tags like `<header>`, `<nav>`, `<main>`, `<aside>`, and `<section>`.
-* **Responsive Layout:** Implementation of CSS techniques (likely Flexbox or Grid) to ensure the profile and feed adjust perfectly on mobile and desktop devices.
-* **Clean CSS:** Separation of styles and good class naming conventions.
+* **Semantic HTML:** Correct page structure with a focus on accessibility and SEO.
+* **Responsive Layout:** Implementation of modern CSS techniques for seamless adaptation between mobile and desktop devices.
+* **JavaScript Interactivity:** Use of scripts for DOM manipulation, allowing dynamic interactions within the social network elements.
+* **Clean CSS:** Modular style organization and professional class naming conventions.
 
 ## 📁 File Structure
 
-* `index.html`: Main page structure (profile and feed).
-* `style.css` / other `.css` files: Styling and layout responsiveness.
+* `index.html`: Main page structure.
+* `style.css`: Styling and layout responsiveness.
+* `script.js`: Interactivity logic and event handling.
 * `assets/`: Folder containing icons and profile images.
 
 ## ⚙️ How to Run Locally
